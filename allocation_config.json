@@ -1,0 +1,1251 @@
+{
+  "vendor_group_utility": {
+    "Freight": "Non Utility",
+    "Freight- Primary": "Non Utility",
+    "C&F": "Non Utility",
+    "Fly Ash": "Non Utility",
+    "LA/BO Commission": "Non Utility",
+    "STORE & SPARES": "Non Utility",
+    "Raw Material- Clinker": "Non Utility",
+    "Raw Material- G SLAG": "Non Utility",
+    "CONTRACTOR": "Non Utility",
+    "Freight- Secondary": "Non Utility",
+    "Maxx Paint": "Non Utility",
+    "VAP Products": "Non Utility",
+    "GYPSUM": "Non Utility",
+    "OTHERS": "Non Utility",
+    "Raw Material Others": "Non Utility",
+    "Rent": "Utility",
+    "Employee Reimbursement": "Non Utility",
+    "Fuel- Petcoke": "Non Utility",
+    "Raw Material": "Non Utility",
+    "Branding": "Non Utility",
+    "Insurance": "Non Utility",
+    "PACKING": "Non Utility",
+    "COAL": "Non Utility",
+    "Loading/unloading": "Non Utility",
+    "Employee": "Non Utility",
+    "Legal and Professional": "Non Utility",
+    "IT": "Non Utility",
+    "Hotel Stay": "Non Utility",
+    "Travel Agency": "Non Utility",
+    "AFR": "Non Utility",
+    "Boradband and Mobile Bill": "Utility",
+    "Lime Stone": "Non Utility",
+    "Capex": "Non Utility",
+    "HSD": "Utility",
+    "C&F Import": "Non Utility",
+    "MOBILE BILL": "Utility",
+    "Electricity": "Utility",
+    "Stores & Spares": "Non Utility",
+    "POWER": "Utility",
+    "Courier": "Non Utility",
+    "Guest House": "Non Utility",
+    "Fuel": "Utility",
+    "Courier Charges": "Non Utility",
+    "CTS-Grey": "Non Utility",
+    "Contractors for Manpower": "Non Utility",
+    "Transporter Security": "Non Utility",
+    "Import- Stores Spares": "Non Utility",
+    "Coal/Fuel": "Non Utility",
+    "Loyalty": "Non Utility",
+    "Printing & Stat.": "Non Utility",
+    "Stores & Spares - Freight": "Non Utility",
+    "CTS-White": "Non Utility",
+    "Advertisement & Brand": "Non Utility",
+    "Trading Goods": "Non Utility"
+  },
+  "account_group_utility": {
+    "Vendors-Raw Material": "Non Utility",
+    "Vendors-Stores & Spares": "Non Utility",
+    "Vendors-Packing material": "Non Utility",
+    "Vendors-Fuel": "Utility",
+    "Vendors-Power": "Utility",
+    "Vendors-AFR": "Non Utility",
+    "Vendors-Trading Goods": "Non Utility",
+    "Transporters (Inward)": "Non Utility",
+    "Sales Transporters": "Non Utility",
+    "Contractors for Manpower": "Non Utility",
+    "Vendors-Repairs & Maintenance": "Non Utility",
+    "Vendors-Imported Material": "Non Utility",
+    "Vendors-Foreign Services": "Non Utility",
+    "Handling Agents (Inward)": "Non Utility",
+    "Vendor-Capex -Imported": "Non Utility",
+    "Vendor-Capex -Domestic": "Non Utility",
+    "Handling Agents (Outward)": "Non Utility",
+    "Sales Promotion/Liasioning Agn": "Non Utility",
+    "Vendors-Advertisement & Brand": "Non Utility",
+    "Stockists": "Non Utility",
+    "Vendors-Mining & Royalty": "Non Utility",
+    "Vendors-Rent": "Utility",
+    "Vendors-Insurance": "Non Utility",
+    "Vendors-Legal,Professional Fee": "Non Utility",
+    "Vendors-CSR": "Non Utility",
+    "Vendors-IT services": "Non Utility",
+    "Vendors-Related Parties": "Non Utility",
+    "General Service Providers": "Non Utility",
+    "General Material Vendors": "Non Utility",
+    "One Time Vendors": "Non Utility",
+    "Government & Local Bodies": "Government",
+    "Vendors-AMCs": "Non Utility",
+    "Vendors-Land": "Non Utility",
+    "Group Company Vendors": "Non Utility",
+    "Transporter Security": "Non Utility"
+  },
+  "api_move_auto_categories": [
+    "Fly Ash",
+    "GYPSUM"
+  ],
+  "auto_process_plants": {
+    "J K  Cemet Works, Gotan": "Fly Ash",
+    "J K Cement Ltd, Works Muddapur": "Fly Ash",
+    "J K CEMENT LTD. JAISALMER": "Fly Ash",
+    "J K Cement Works": "Fly Ash",
+    "J K CEMENT WORKS (Aligarh)": "Fly Ash",
+    "J K Cement Works (Nimbahera)": "Fly Ash",
+    "J K Cement Works (Prayagraj)": "Fly Ash",
+    "J K Cement Works (TPA)": "Fly Ash",
+    "J K CEMENT WORKS JHARLI": "Fly Ash",
+    "J K Cement Works Muddapur": "Fly Ash",
+    "J K Cement Works Muddapur (Uni": "Fly Ash",
+    "J K CEMENT WORKS PANNA": "Fly Ash",
+    "J K Cement Works Panna, Panna": "Fly Ash",
+    "J K CEMENT WORKS PRAYAGRAJ": "Fly Ash",
+    "J K Cement Works, Aligarh": "Fly Ash",
+    "J K Cement Works, Balasinor": "Fly Ash",
+    "J K Cement Works, Buxar": "Fly Ash",
+    "J K Cement Works, Hamirpur": "Fly Ash",
+    "J K Cement Works, Jhajjar": "Fly Ash",
+    "J K Cement Works, Mangrol": "Fly Ash",
+    "J K Cement Works, Muddapur": "Fly Ash",
+    "J K Cement Works, Nimabhera": "Fly Ash",
+    "J K CEMENT WORKS, PANNA": "Fly Ash",
+    "J K Cement Works, Prayagraj": "Fly Ash",
+    "J K Cement Works, Ujjain": "Fly Ash",
+    "J K Cement, Jaisalmer": "Fly Ash",
+    "J K Cement, Shankargarh Plant": "Fly Ash",
+    "J K WHITE CEMENT WORKS GOTAN": "Fly Ash",
+    "J K White Cemet Works, Gotan": "Fly Ash",
+    "J K WHITE KATNI": "Fly Ash",
+    "J K White, Katni": "Fly Ash"
+  },
+  "users": [
+    {
+      "team": "Plant",
+      "name": "AARTI A",
+      "ibm_email": "aarti.a1@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "ANSHITA TRIPATHI",
+      "ibm_email": "ANSHITA.TRIPATHI@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "ANSHU",
+      "ibm_email": "anshu1@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "ASHISH",
+      "ibm_email": "ashish@ibm.com",
+      "roles": [
+        "API - Poster",
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "AYUSH MUNET",
+      "ibm_email": "ayush.munet@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "DEEPAK UPADHYAY",
+      "ibm_email": "deepak.upadhyay2@ibm.com",
+      "roles": [
+        "Parker",
+        "Poster"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "DILIP SINGH",
+      "ibm_email": "dilip.singh2@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "JAGDAMBA KHANTWAL",
+      "ibm_email": "jagdamba.khantwal@ibm.com",
+      "roles": [
+        "Parker",
+        "Poster"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "JAYA VYAS",
+      "ibm_email": "jaya.vyas@ibm.com",
+      "roles": [
+        "API - Poster",
+        "Poster",
+        "API/Non API - Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "KAMAL KUMAR",
+      "ibm_email": "kamal.kumar5@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "KRISHNA RATHORE",
+      "ibm_email": "krishna.rathore@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "MD ARMAN ANSARI",
+      "ibm_email": "mdarman.ansari@ibm.com",
+      "roles": [
+        "API - Parker",
+        "Non API Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "NISHIKA",
+      "ibm_email": "nishika.nishika@ibm.com",
+      "roles": [
+        "Parker",
+        "Poster"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "PINKI",
+      "ibm_email": "pinki@ibm.com",
+      "roles": [
+        "Parker",
+        "Poster"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "RAHUL SHARMA",
+      "ibm_email": "rahul.sharma60@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "SAGAR SHARMA",
+      "ibm_email": "Sagar.Sharma10@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "SHARAWAN KUMAR PANDEY",
+      "ibm_email": "sharawan.kumar.pandey@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "SHIVANI SINGH",
+      "ibm_email": "Shivani.SINGH27@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "VIJAY KUMAR SWAMI",
+      "ibm_email": "vijay.kumar.swami@ibm.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "Plant",
+      "name": "YOGESH KUMAR",
+      "ibm_email": "yogesh.kumar18@ibm.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "HARSHITA .",
+      "ibm_email": "Harshita1@ibm.com",
+      "jk_email": "harshita.h.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "RATNESHWAR SHUKL",
+      "ibm_email": "Ratneshwar.Shukl@ibm.com",
+      "jk_email": "Ratneshwar.S.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "VENKATESHA BABU H K",
+      "ibm_email": "Venkatesha.Babu.H.K@ibm.com",
+      "jk_email": "venkateshbabu.hk.ext@jkcement.com",
+      "roles": [
+        "Poster"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "VIKASH .",
+      "ibm_email": "Vikash.V@ibm.com",
+      "jk_email": "vikash.v.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "ANJALI SHARMA",
+      "ibm_email": "Anjali.Sharma20@ibm.com",
+      "jk_email": "anjali.sharma.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Nilesh Kumar",
+      "ibm_email": "Nilesh.Kumar10@ibm.com",
+      "jk_email": "nilesh.kumar.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "SANDEEP KUMAR TRIPATHI",
+      "ibm_email": "Sandeep.Kumar.Tripathi@ibm.com",
+      "jk_email": "sandeep.tripathi.ext@jkcement.com",
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Jai Kishan Gola",
+      "ibm_email": "JaiKishan.Gola@ibm.com",
+      "jk_email": "jai.gola.ext@jkcement.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Gaurav Kumar",
+      "ibm_email": "Gaurav.Kumar82@ibm.com",
+      "jk_email": "gaurav.kumar.ext@jkcement.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Vishal Dogra",
+      "ibm_email": "vishal.dogra1@ibm.com",
+      "jk_email": "vishal.dogra.ext@jkcement.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Rahul",
+      "ibm_email": "Rahul.R17@ibm.com",
+      "jk_email": "rahul.r6.ext@jkcement.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-White",
+      "name": "Rohit Pandit",
+      "ibm_email": "Rohit.pandit1@ibm.com",
+      "jk_email": "Rohit.pandit.ext@jkcement.com",
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Anil Pandey",
+      "ibm_email": "anil.kumar.pandey1@ibm.com",
+      "categories": [
+        "LA",
+        "BO",
+        "CFA",
+        "IT",
+        "CONTRACTOR",
+        "CTS",
+        "RENT",
+        "EMPLOYEE REIMBURSEMENT",
+        "RMC",
+        "BRANDING"
+      ],
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Sanjay Prasad Baranwal",
+      "ibm_email": "sanjay.pd.baranwal@ibm.com",
+      "categories": [
+        "LA",
+        "BO",
+        "CFA",
+        "CTS",
+        "RENT",
+        "EMPLOYEE REIMBURSEMENT",
+        "BRANDING"
+      ],
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Upendra Singh",
+      "ibm_email": "upendra.singh1@ibm.com",
+      "categories": [
+        "LA",
+        "BO",
+        "CFA",
+        "RENT"
+      ],
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "BIPIN RAI",
+      "ibm_email": "bipin.rai@ibm.com",
+      "categories": [
+        "BRANDING",
+        "RENT",
+        "RMC"
+      ],
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Surbhi Sharma",
+      "ibm_email": "surbhi.sharma10@ibm.com",
+      "categories": [
+        "IMPORTS",
+        "IT",
+        "LA",
+        "BO",
+        "CFA",
+        "CONTRACTOR",
+        "CTS",
+        "RENT",
+        "BRANDING"
+      ],
+      "roles": [
+        "Poster",
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Vivek Maheshwari",
+      "ibm_email": "vivek.maheshwari1@ibm.com",
+      "categories": [
+        "CTS",
+        "LOYALTY",
+        "EMPLOYEE REIMBURSEMENT"
+      ],
+      "roles": [
+        "Parker",
+        "Poster"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Anjali Jain",
+      "ibm_email": "anjali.jain3@ibm.com",
+      "categories": [
+        "LA",
+        "BO",
+        "CFA",
+        "IT",
+        "CONTRACTOR",
+        "CTS",
+        "RENT",
+        "BRANDING",
+        "RMC"
+      ],
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Akash Jain",
+      "ibm_email": "akash.jain12@ibm.com",
+      "categories": [
+        "LA",
+        "BO",
+        "CFA",
+        "CTS",
+        "RENT",
+        "EMPLOYEE REIMBURSEMENT"
+      ],
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Mahesh Kumar",
+      "ibm_email": "mahesh.kumar35@ibm.com",
+      "categories": [
+        "RENT",
+        "LA",
+        "BO",
+        "CFA"
+      ],
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Harsha Rani",
+      "ibm_email": "Harsha.Rani1@ibm.com",
+      "categories": [
+        "RENT",
+        "LA",
+        "BO",
+        "CFA"
+      ],
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "HO-Grey",
+      "name": "Ashish Chopra",
+      "ibm_email": "Ashish.Chopra1@ibm.com",
+      "categories": [
+        "BRANDING",
+        "RENT",
+        "RMC"
+      ],
+      "roles": [
+        "Parker"
+      ]
+    },
+    {
+      "team": "Freight",
+      "name": "Nishant Jha",
+      "ibm_email": "Nishant.Jha@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Parking & Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Rubiyanka Gupta",
+      "ibm_email": "Rubiyanka.Gupta@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Rahul Singh Negi",
+      "ibm_email": "Rahul.Singh.Negi@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Satabdi Behra (PO Only)",
+      "ibm_email": "satabdi.behera1@ibm.com",
+      "scope": "Grey & White",
+      "freight_subtypes": [
+        "Freight"
+      ],
+      "process_type": "Parking & Posting",
+      "po_only": true
+    },
+    {
+      "team": "Freight",
+      "name": "Aditya Tiwari",
+      "ibm_email": "Aditya.Tiwari7@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Sagar Goyal",
+      "ibm_email": "Sagar.Goyal2@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Muskaan Soni",
+      "ibm_email": "Muskaan.Soni@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Siddharth Anand",
+      "ibm_email": "Siddharth.Anand@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Parking & Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Manogya Rajawat",
+      "ibm_email": "Manogya.Rajawat1@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight"
+      ],
+      "process_type": "Direct Posting & Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Samyak Jain (PO Only)",
+      "ibm_email": "Samyak.Jain4@ibm.com",
+      "scope": "Grey & White",
+      "freight_subtypes": [
+        "Freight- Secondary",
+        "Freight"
+      ],
+      "process_type": "Parking & Posting",
+      "po_only": true
+    },
+    {
+      "team": "Freight",
+      "name": "Diptaneel Bhowal",
+      "ibm_email": "DIPTANEEL.BHOWAL@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Secondary"
+      ],
+      "process_type": "Parking",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Riya Varshney",
+      "ibm_email": "Riya.Varshney@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Direct Posting & Parking & Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Ashutosh Srivastava",
+      "ibm_email": "Ashutosh.Srivastava8@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Direct Posting & Parking",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Sourabh Sharma",
+      "ibm_email": "Sourabh.Sharma5@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Direct Posting & Parking",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Abhishek Upadhyay (PO Only)",
+      "ibm_email": "Abhishek.Upadhyay2@ibm.com",
+      "scope": "Grey & White",
+      "freight_subtypes": [
+        "Freight"
+      ],
+      "process_type": "Parking & Posting",
+      "po_only": true
+    },
+    {
+      "team": "Freight",
+      "name": "Krishnadev Singh Parmar",
+      "ibm_email": "Krishnadev.Parmar@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary"
+      ],
+      "process_type": "Direct Posting",
+      "po_only": false
+    },
+    {
+      "team": "Freight",
+      "name": "Shivani Pandey",
+      "ibm_email": "Shivani.Pandey2@ibm.com",
+      "scope": "Grey",
+      "freight_subtypes": [
+        "Freight- Primary",
+        "Freight- Secondary"
+      ],
+      "process_type": "Direct Posting & Parking",
+      "po_only": false
+    }
+  ],
+  "plants": [
+    "J K Cement Works, Mangrol",
+    "J K Cement Works, Muddapur",
+    "J K Cement Works, Hamirpur",
+    "J K Cement Works, Aligarh",
+    "J K Cement Works, Prayagraj",
+    "J K Cement Works, Nimabhera",
+    "J K  Cemet Works, Gotan",
+    "J K White Cemet Works, Gotan",
+    "J K Cement Works, Jhajjar",
+    "J K Cement Works, Balasinor",
+    "J K Cement, Jaisalmer",
+    "J K Cement Works, Ujjain",
+    "J K White, Katni",
+    "J K Cement Works, Buxar",
+    "J K CEMENT LIMITED",
+    "J K Cement Works",
+    "J K CEMENT WORKS (Aligarh)",
+    "J K Cement Works (Nimbahera)",
+    "J K CEMENT WORKS PRAYAGRAJ",
+    "J K CEMENT LTD",
+    "J K CEMENT LIMITED (Formerly)",
+    "J K Cement Works Muddapur",
+    "J K WHITE CEMENT WORKS UNIT OF",
+    "J K CEMENT LTD. JAISALMER",
+    "J K Cement Limited (Prism Towe",
+    "J K Cement",
+    "J K Cement Works (TPA)",
+    "J K CEMENT LTD UNIT OFF J K CE",
+    "J K Cement Limited (TPC AC)",
+    "J K Cement Ltd.",
+    "J K CEMENT LIMITED (GHAZIABAD)",
+    "J .K. CEMENT LIMITED UNIT OF J",
+    "J K CEMENT WORKS PANNA",
+    "J K WHITE CEMENT WORKS GOTAN",
+    "J K Cement Ltd, Works Muddapur",
+    "J K CEMENT WORKS, PANNA",
+    "J K CEMENT WORKS A UNIT OF JK",
+    "J K CEMENT WORKS RAMNAGAR_GRE",
+    "J K CEMENT WORKS JHARLI",
+    "J K WHITE KATNI",
+    "J K Cement Works (Prayagraj)",
+    "J K CEMENT LIMITED Unit : J K",
+    "J S AUTOWHEELS",
+    "J K MAXX PAINTS LIMITED",
+    "J K CEMENTWORKS PANNA (A UNIT",
+    "J K CEMENT WORKS, PANNA (A UNI",
+    "J K CEMENT MUMBAI",
+    "J K Cement Works Muddapur (Uni",
+    "J K CEMENT WORKS RAJPUR(BARWAN",
+    "J K CEMENT LIMITED A Unit of J",
+    "J K Cement Works Panna, Panna",
+    "J K CEMENT WORKS PANNA / A UNI",
+    "J K CEMENT WORKS, PANNA A UNIT",
+    "J K Cement, Shankargarh Plant"
+  ],
+  "white_plants": [
+    "J K White Cemet Works, Gotan",
+    "J K White, Katni",
+    "J K WHITE CEMENT WORKS UNIT OF",
+    "J K WHITE CEMENT WORKS GOTAN",
+    "J K WHITE KATNI"
+  ],
+  "freight_vendor_groups_prefix": [
+    "Freight"
+  ],
+  "freight_doc_types": [
+    "PO FREIGHT"
+  ],
+  "hogrey_vendorgroup_to_category": {
+    "LA/BO Commission": "LA,BO",
+    "C&F": "CFA",
+    "C&F Import": "IMPORTS",
+    "Import- Stores Spares": "IMPORTS",
+    "IT": "IT",
+    "CONTRACTOR": "CONTRACTOR",
+    "Contractors for Manpower": "CONTRACTOR",
+    "CTS-Grey": "CTS",
+    "Rent": "RENT",
+    "Employee Reimbursement": "EMPLOYEE REIMBURSEMENT",
+    "Employee": "EMPLOYEE REIMBURSEMENT",
+    "Branding": "BRANDING",
+    "Loyalty": "LOYALTY",
+    "CTS-White": "CTS",
+    "Advertisement & Brand": "BRANDING"
+  },
+  "emp_claim_category": "EMPLOYEE REIMBURSEMENT",
+  "division_grey_values": [
+    "Grey"
+  ],
+  "division_white_values": [
+    "White"
+  ],
+  "division_paints_values": [
+    "Paints"
+  ],
+  "paints_route_to": "HO-White",
+  "poster_if_status_in": [
+    "Hold"
+  ],
+  "poster_if_queue_in": [
+    "Audit"
+  ],
+  "dump": {
+    "header_row": 5,
+    "cols": {
+      "sno": "S.No.",
+      "dcn": "DCN",
+      "vendor_name": "Vendor Name",
+      "doc_type": "Doc type",
+      "invoice_no": "Invoice Number",
+      "invoice_date": "INVOICE DATE",
+      "amount": "INVOICE AMOUNT",
+      "po_number": "PO NUMBER",
+      "current_queue": "Current Queue",
+      "current_status": "Current Status",
+      "claimed_by": "Claimed by",
+      "msme_number": "MSME Number",
+      "msme_category": "MSME Category",
+      "division": "BUSINESS DIVISION",
+      "vendor_group": "Vendor Group",
+      "ship_to_plant": "SHIP TO PLANT NAME",
+      "processing_type": "Processing Type",
+      "vendor_gstin": "VENDOR GSTIN",
+      "company_code": "Company Code",
+      "receipt_date": "Invoice Receipt Date",
+      "parking_ref": "Parking Reference Number",
+      "sap_ref": "SAP Reference Number",
+      "hold_comments": "Reject/Hold/Terminate Comments",
+      "email_sender": "Email Sender Address"
+    }
+  },
+  "old_logic": {
+    "holidays": [
+      "2025-02-26",
+      "2025-03-14",
+      "2025-03-31",
+      "2025-04-18",
+      "2025-08-15",
+      "2025-08-27",
+      "2025-10-01",
+      "2025-10-02",
+      "2025-10-20",
+      "2025-12-25",
+      "2025-11-05",
+      "2026-01-26",
+      "2026-03-04",
+      "2026-05-28"
+    ],
+    "tenure_buckets": [
+      [
+        0,
+        "0-2 Days"
+      ],
+      [
+        3,
+        "3 -4 days"
+      ],
+      [
+        5,
+        "5-10 Days"
+      ],
+      [
+        11,
+        "11-20 Days"
+      ],
+      [
+        21,
+        "21-30 days"
+      ],
+      [
+        31,
+        ">30 Days"
+      ]
+    ],
+    "vg_updated": {
+      "Freight": "Freight",
+      "STORE & SPARES": "Stores & Spares",
+      "Employee": "Employee",
+      "OTHERS": "Others",
+      "Trading Goods": "Other Raw Material",
+      "Branding": "Branding",
+      "C&F": "C&F",
+      "Employee Reimbursement": "Employee",
+      "CONTRACTOR": "Contractor",
+      "CTS-Grey": "CTS/ Loyalty",
+      "CTS-White": "CTS/ Loyalty",
+      "Rent": "CFA/ Rent",
+      "VAP Products": "Others",
+      "Depo Exp.": "Depo Exp.",
+      "MD Office Expenses": "MD Office Expenses",
+      "Electricity": "Non PO",
+      "Fuel- Petcoke": "Coal/ Fuel/ AFR",
+      "Legal and Professional": "Non PO",
+      "LA/BO Commission": "BO Comission",
+      "Forex and Tickets": "MD Office Expenses",
+      "Hotel Stay": "Employee",
+      "GYPSUM": "Other Raw Material",
+      "Raw Material- Clinker": "Other Raw Material",
+      "Raw Material- G SLAG": "Other Raw Material",
+      "Boradband and Mobile Bill": "Non PO",
+      "Fly Ash": "Flyash",
+      "HSD": "Employee",
+      "COAL": "Coal/ Fuel/ AFR",
+      "AFR": "Coal/ Fuel/ AFR",
+      "Lime Stone": "Others",
+      "Raw Material- ANHYDRITE GYPSUM": "Other Raw Material",
+      "Loyalty": "CTS/ Loyalty",
+      "Maxx Paint": "Branding",
+      "MOBILE BILL": "Non PO",
+      "Travel Agency": "Non PO",
+      "Import- Chemicals": "Imports",
+      "PACKING": "Other Raw Material",
+      "Coal/Fuel": "Coal/ Fuel/ AFR",
+      "POWER": "Non PO",
+      "CUSTOM PAYMENT": "Imports",
+      "Train Booking": "Non PO",
+      "C&F Import": "Imports",
+      "FLYASH": "Flyash",
+      "Import- Pet Coke": "Imports",
+      "Import- Stores Spares": "Imports",
+      "Loading/unloading": "Loading/unloading",
+      "IT": "IT",
+      "Capex": "Capex",
+      "Courier Charges": "Courier Charges",
+      "Raw Material Others": "Other Raw Material",
+      "Printing & Stat.": "Printing & Stat.",
+      "HR Expense": "HR Expense",
+      "Guest House": "Guest House",
+      "Insurance": "Insurance",
+      "CSR": "CSR",
+      "Freight- Primary": "Freight",
+      "Freight- Secondary": "Freight",
+      "Royalty": "Royalty",
+      "Stockists": "Others",
+      "Sales Promotion/Liasioning Agn": "Others",
+      "Courier": "Courier",
+      "Depo Exp": "Depo Exp.",
+      "Related Parties": "Others",
+      "Stores & Spares": "Stores & Spares",
+      "JKC Employee": "Employee",
+      "Advertisement & Brand": "Branding",
+      "Raw Material": "Other Raw Material",
+      "One Time Vendors": "Others",
+      "Fuel": "Coal/ Fuel/ AFR",
+      "Contractors for Manpower": "Contractor",
+      "Land": "Others",
+      "General Material Vendors": "Other Raw Material",
+      "Legal,Professional Fee": "BO Comission",
+      "Transporters (Inward)": "Freight",
+      "Handling Agents (Inward)": "Contractor",
+      "General Service Providers": "Other Raw Material",
+      "Sales Transporters": "Freight",
+      "Raw Material- ANHYDRITE": "Other Raw Material",
+      "White Retailers & Painters": "Contractor",
+      "Stores & Spares - Freight": "Freight",
+      "Capex -Imported": "Capex",
+      "Foreign Services": "Others",
+      "Imported Material": "Other Raw Material",
+      "Handling Agents (Outward)": "Contractor",
+      "Repairs & Maintenance": "Others",
+      "IT services": "Others",
+      "Government & Local Bodies": "Others",
+      "Packing material": "Others"
+    },
+    "vg_priority": {
+      "Advertisement & Brand": "P1",
+      "Boradband and Mobile Bill": "P1",
+      "Branding": "P1",
+      "C&F Import": "P1",
+      "CONTRACTOR": "P1",
+      "Contractors for Manpower": "P1",
+      "Electricity": "P1",
+      "Freight- Primary": "P1",
+      "Import- Pet Coke": "P1",
+      "Import- Stores Spares": "P1",
+      "Maxx Paint": "P1",
+      "MD Office Expenses": "P1",
+      "MOBILE BILL": "P1",
+      "Rent": "P1",
+      "C&F": "P2",
+      "Capex": "P2",
+      "CTS-Grey": "P2",
+      "CTS-White": "P2",
+      "Depo Exp": "P2",
+      "Employee Reimbursement": "P2",
+      "Forex and Tickets": "P2",
+      "Freight- Secondary": "P2",
+      "Guest House": "P2",
+      "Insurance": "P2",
+      "Loyalty": "P2",
+      "PACKING": "P2",
+      "Repairs & Maintenance": "P2",
+      "AFR": "P3",
+      "Employee": "P3",
+      "Freight": "P3",
+      "Handling": "P3",
+      "HSD": "P3",
+      "IT": "P3",
+      "LA/BO Commission": "P3",
+      "Legal and Professional": "P3",
+      "Legal,Professional Fee": "P3",
+      "Loading/unloading": "P3",
+      "Raw Material": "P3",
+      "Stores & Spares - Freight": "P3",
+      "Trading Goods": "P3",
+      "VAP Products": "P3",
+      "Courier Charges": "P4",
+      "Hotel Stay": "P4",
+      "Raw Material- ANHYDRITE GYPSUM": "P4",
+      "Travel Agency": "P4",
+      "COAL": "P5",
+      "Coal/Fuel": "P5",
+      "Fuel": "P5",
+      "Fuel- Petcoke": "P5",
+      "GYPSUM": "P5",
+      "Lime Stone": "P5",
+      "Printing & Stat.": "P5",
+      "Raw Material- Clinker": "P5",
+      "Raw Material- G SLAG": "P5",
+      "Raw Material Others": "P5",
+      "Fly Ash": "P6",
+      "OTHERS": "P6",
+      "STORE & SPARES": "P6",
+      "Stores & Spares": "P6",
+      "Foreign Services": "P1",
+      "Courier": "P4",
+      "Import- Chemicals": "P1",
+      "HR Expense": "P1",
+      "Train Booking": "P2",
+      "Handling Agents (Outward)": "P3",
+      "Handling Agents (Inward)": "P3",
+      "Related Parties": "P6",
+      "One Time Vendors": "P6",
+      "Plant Vendors": "P1",
+      "CUSTOM PAYMENT": "P1",
+      "CSR": "P6",
+      "JKC Employee": "P6",
+      "Sales Promotion/Liasioning Agn": "P6",
+      "Government & Local Bodies": "P6",
+      "POWER": "P6",
+      "Raw Material- ANHYDRITE": "P5",
+      "Stockists": "P6"
+    },
+    "vg_team": {
+      "Advertisement & Brand": "ALL TEAMS",
+      "Boradband and Mobile Bill": "ALL TEAMS",
+      "Branding": "HO GREY & WHITE",
+      "C&F Import": "Ho Grey",
+      "CONTRACTOR": "Plant",
+      "Contractors for Manpower": "Plant",
+      "Electricity": "ALL TEAMS",
+      "Freight- Primary": "Freight",
+      "Import- Pet Coke": "HO GREY & WHITE",
+      "Import- Stores Spares": "ALL TEAMS",
+      "Maxx Paint": "Ho White",
+      "MD Office Expenses": "ALL TEAMS",
+      "MOBILE BILL": "ALL TEAMS",
+      "Rent": "ALL TEAMS",
+      "C&F": "HO GREY & WHITE",
+      "Capex": "ALL TEAMS",
+      "CTS-Grey": "HO GREY & WHITE",
+      "CTS-White": "HO GERY & WHITE",
+      "Depo Exp": "HO GERY & WHITE",
+      "Employee Reimbursement": "ALL TEAMS",
+      "Forex and Tickets": "ALL TEAMS",
+      "Freight- Secondary": "Freight",
+      "Guest House": "ALL TEAMS",
+      "Insurance": "ALL TEAMS",
+      "Loyalty": "HO GREY & WHITE",
+      "PACKING": "Plant",
+      "Repairs & Maintenance": "ALL TEAMS",
+      "AFR": "Plant",
+      "Employee": "ALL TEAMS",
+      "Freight": "Freight",
+      "Handling": "HO GREY & WHITE",
+      "HSD": "Plant",
+      "IT": "ALL TEAMS",
+      "LA/BO Commission": "HO GREY & WHITE",
+      "Legal and Professional": "ALL TEAMS",
+      "Legal,Professional Fee": "ALL TEAMS",
+      "Loading/unloading": "ALL TEAMS",
+      "Raw Material": "Plant",
+      "Stores & Spares - Freight": "Freight",
+      "Trading Goods": "Ho White",
+      "VAP Products": "Ho White",
+      "Courier Charges": "ALL TEAMS",
+      "Hotel Stay": "ALL TEAMS",
+      "Raw Material- ANHYDRITE GYPSUM": "Plant",
+      "Travel Agency": "ALL TEAMS",
+      "COAL": "Plant",
+      "Coal/Fuel": "Plant",
+      "Fuel": "ALL TEAMS",
+      "Fuel- Petcoke": "Plant",
+      "GYPSUM": "Plant",
+      "Lime Stone": "Plant",
+      "Printing & Stat.": "ALL TEAMS",
+      "Raw Material- Clinker": "Plant",
+      "Raw Material- G SLAG": "Plant",
+      "Raw Material Others": "Plant",
+      "Fly Ash": "Plant",
+      "OTHERS": "ALL TEAMS",
+      "STORE & SPARES": "Plant",
+      "Stores & Spares": "Plant",
+      "Foreign Services": "ALL TEAMS",
+      "Courier": "ALL TEAMS",
+      "Import- Chemicals": "ALL TEAMS",
+      "HR Expense": "ALL TEAMS",
+      "Blank": "Blank"
+    },
+    "scanner_tag": {
+      "scanner.aligarh@jkcement.com": "Plant",
+      "scanner.prayagraj@jkcement.com": "Plant",
+      "scanner.gotan@jkcement.com": "Plant",
+      "scanner.ghaziabad@jkcement.com": "Plant",
+      "scanner.aligarh@jkcement": "Plant",
+      "scanner.jharli@jkcement.com": "Plant",
+      "scanner.hamirpur@jkcement.com": "Plant",
+      "scanner.bhopal@jkcement.com": "Plant",
+      "scanner.katni@jkcement.com": "Plant",
+      "scanner.jaipur@jkcement.com": "Plant",
+      "scanner.panna@jkcement.com": "Plant",
+      "scanner.ujjain@jkcement.com": "Plant",
+      "scanner.ahmedabad@jkcement.com": "Plant",
+      "scanner.balasinor@jkcement.com": "Plant",
+      "scanner.kanpur@jkcement.com": "Plant",
+      "scanner.pune@jkcement.com": "Plant",
+      "scanner.padam@jkcement.com": "Plant",
+      "scanner.patna@jkcement.com": "Plant",
+      "scanner.chandigarh@jkcement.com": "Plant",
+      "scanner.bangaluru@jkcement.com": "Plant",
+      "scanner.chennai@jkcement.com": "Plant",
+      "scanner.kolkata@jkcement.com": "Plant"
+    },
+    "priority_number": {
+      "P0": 0,
+      "P1": 1,
+      "P2": 2,
+      "P3": 3,
+      "P4": 4,
+      "P5": 5,
+      "P6": 6,
+      "P7": 7
+    },
+    "amount_threshold": 100000,
+    "hold_supervisor": "Anas",
+    "team_supervisor": {
+      "Plant": "Shesh Narayan",
+      "HO-Grey": "Atul Saraf",
+      "HO-White": "Harshit Todwal",
+      "Freight": "Vikas Kushwah",
+      "Auto/API": "Anas"
+    }
+  }
+}
